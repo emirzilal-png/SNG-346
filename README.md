@@ -1,11 +1,5 @@
 # SNG346 – Event Booking & Ticketing System (Backend)
 # Emir Zilal Dumancı - 2587319
-## Team
-
-| Student ID | Name |
-|------------|------|
-| xxxxxxx    | ...  |
-| xxxxxxx    | ...  |
 
 ---
 
@@ -112,7 +106,7 @@ All accounts use password: **`password123`**
 
 | Email                | Role       |
 |----------------------|------------|
-| alice@example.com    | ORGANISER  |
+| emirr@example.com    | ORGANISER  |
 | bob@example.com      | ORGANISER  |
 | carol@example.com    | ATTENDEE   |
 | dave@example.com     | ATTENDEE   |
