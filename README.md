@@ -106,7 +106,7 @@ All accounts use password: **`password123`**
 
 | Email                | Role       |
 |----------------------|------------|
-| emirr@example.com    | ORGANISER  |
+| alice@example.com    | ORGANISER  |
 | bob@example.com      | ORGANISER  |
 | carol@example.com    | ATTENDEE   |
 | dave@example.com     | ATTENDEE   |
