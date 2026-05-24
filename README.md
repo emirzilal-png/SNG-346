@@ -4,8 +4,7 @@
 
 | Student ID | Name |
 |------------|------|
-| xxxxxxx    | ...  |
-| xxxxxxx    | ...  |
+| 2587319    | Emir Zilal Dumancı  |
 
 ---
 
